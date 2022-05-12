@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bFit-A-Cognitive-Game.iml" filepath="$PROJECT_DIR$/.idea/modules/bFit-A-Cognitive-Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShowcaseView/bFit-A-Cognitive-Game.ShowcaseView.iml" filepath="$PROJECT_DIR$/.idea/modules/ShowcaseView/bFit-A-Cognitive-Game.ShowcaseView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bFit-A-Cognitive-Game.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bFit-A-Cognitive-Game.app.iml" />
+    </modules>
+  </component>
+</project>

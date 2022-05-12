@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Asoul-bFit</string>
+    <string-array name="levelArray">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+        <item>Level 4</item>
+        <item>Level 5</item>
+        <item>Level 6</item>
+        <item>Level 7</item>
+    </string-array>
+
+    <string name="About">This is a brain-fit game for the 2022 CST Java Project. It is based on
+        Project No.12, bFit Cognitive and Memory Testing Game. Since I am a huge fan of A-soul,
+        so I make this game to memorize them.</string>
+
+</resources>
